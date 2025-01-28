@@ -1,0 +1,111 @@
+body {
+    display: flex;
+    background: url('https://wallpaper.dog/large/20471179.jpg') no-repeat center center fixed;
+    background-size: cover; 
+    justify-content: center; 
+    align-items: center;     
+    min-height: 100vh;    
+    margin: 0;               
+  }
+  
+  .signup-container {
+    width: 500px;           
+    padding: 20px;          
+    border-radius: 8px;     
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+   background-color: transparent;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  .success-message {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 4px;
+  }
+  
+  form div {
+    margin-bottom: 15px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+    width: 90%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  input[type="submit"] {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  
+  .social-login {
+    margin-top: 20px;
+  }
+  
+  .social-login p {
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .social-login button {
+    width: 100%;
+    padding: 12px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  
+  .google-btn {
+    background-color: #4285F4;
+    color: white;
+  }
+  
+  .google-btn:hover {
+    background-color: #357ae8; 
+  }
+  
+  
+  .facebook-btn {
+    background-color: #3b5998; 
+    color: white;
+  }
+  
+  .facebook-btn:hover {
+    background-color: #2d4373; 
+  }
+  
+  
+  .social-login button svg {
+    margin-right: 10px; 
+    font-size: 20px; 
+    transition: none; 
+  }
+  
+ 
