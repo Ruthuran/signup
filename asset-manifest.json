@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ruthuran.github.io/signup/static/css/main.88353da7.css",
+    "main.js": "/Ruthuran.github.io/signup/static/js/main.dd1a7573.js",
+    "static/js/488.eb9c0443.chunk.js": "/Ruthuran.github.io/signup/static/js/488.eb9c0443.chunk.js",
+    "index.html": "/Ruthuran.github.io/signup/index.html",
+    "main.88353da7.css.map": "/Ruthuran.github.io/signup/static/css/main.88353da7.css.map",
+    "main.dd1a7573.js.map": "/Ruthuran.github.io/signup/static/js/main.dd1a7573.js.map",
+    "488.eb9c0443.chunk.js.map": "/Ruthuran.github.io/signup/static/js/488.eb9c0443.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88353da7.css",
+    "static/js/main.dd1a7573.js"
+  ]
+}
